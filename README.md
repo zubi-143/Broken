@@ -16,4 +16,4 @@
 
 # pip2 install requests
 
-python2 zubi.py
+# python2 zubi.py
